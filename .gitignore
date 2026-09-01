@@ -1,0 +1,11 @@
+# Contenu personnel : jamais versionne, seule la structure de dossiers l'est
+ToDo/*
+Did/*
+Output/Markdown/*
+Output/Images/*
+Output/Logs/*
+!ToDo/.gitkeep
+!Did/.gitkeep
+!Output/Markdown/.gitkeep
+!Output/Images/.gitkeep
+!Output/Logs/.gitkeep
